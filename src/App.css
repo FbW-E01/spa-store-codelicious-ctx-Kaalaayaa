@@ -12,3 +12,12 @@
 .App > p, .App > h1 {
     text-align: center;
 }
+
+
+.light {
+    background-color: lightblue;
+}
+
+.dark {
+    background-color: darkgreen;
+}
