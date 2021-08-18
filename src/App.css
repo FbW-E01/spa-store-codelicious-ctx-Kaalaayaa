@@ -21,3 +21,13 @@
 .dark {
     background-color: darkgreen;
 }
+
+.light li {
+    color: blue;
+    background-color: rgb(55, 173, 241);
+}
+
+.dark li {
+    color: darkgreen;
+    background-color: rgb(39, 161, 39);
+}
